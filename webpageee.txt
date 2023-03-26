@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang ="en" dir="Ltr">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+<title>HTML TAGS FORMATTING</title>
+</head>
+<body>
+<h1 style="font-size:3w" align="center"> HUMMUS </h1>
+<hr>
+
+<p>
+<pre>
+Quick hummus recipe This recipe makes quick, tasty humus, with no messing.
+It has been adapted from a number of different recipes that I have read over the years.
+Hummus is a delicious thick paste used heavily in Greek and Middle Eastern dishes.
+It is very tasty with salad, grilled meats and pitta breads.
+</pre>
+</p>
+
+<blockquote cite = "https://www.webmd.com/diet/hummus-recipe-and-benefits">
+<p><em>Hummus</em>, that creamy dip that hails from the Middle East, has a reputation as a clean, healthy food. 
+It deserves it.
+All the main ingredients are super foods in their own right. 
+It's got chickpeas, sesame paste (tahini), garlic, and <strong>olive oil in most traditional versions.</strong>
+</p>
+<p> Matthew Carter says,<q>Hummus never change.</q></p>
+</blockquote>
+
+<hr \> 
+<a href="https://www.youtube.com/watch?v=ygFErOfHWDY"><img border="5" alt="hummus" src="https://cookieandkate.com/images/2018/05/best-hummus.jpg" width="100" height ="100"</a> 
+<a href = "https://www.webmd.com/diet/hummus-recipe-and-benefits" target="_blank"></br> Hummus Recipe</a>
+</br><a href = "mailto: shei.nicolle.de.leon@adamson.edu.ph"> Send email to the Author</a>	
+<a href = "C:\Users\adamson\Documents\html\DOCTYPE html.pdf" <br />Link to PDF</a>
+<a href = "C:\Users\202215203\Downloads\HTML\111.html"> </br>Link to HTML </a>
+<a href = "C:\Users\adamson\Documents\html\svt.jpg"> </br>Link to IMG</a>
+<a href = "C:\Users\adamson\Documents\html\excel.xlsx"> </br>Link to Excel</a>
+<a href = "C:\Users\202215203\Downloads\HTML\22.txt"> </br>Link to TXT</a>
+<a href = "https://www.w3schools.com/"> </br>Link to Homepage</a>
+
+
+
+
+
+<ul> <mark> Ingredients:</mark>
+<li> 1 can <sub>(400g)</sub>of Chickpeas (garbanzo beans) </li>
+<li> 1 can <sup>(400g)</sup>of Chickpeas (garbanzo beans) </li>
+<li> Half a red pepper </li>
+<li> A pinch of cayenne pepper  </li>
+<li> 1 clove of garlic </li>
+<li> A dash of olive oil</li>
+</ul>
+<p>
+<ol> <mark>Instructions: </mark>
+<li>Remove the skin from the garlic, and chop coarsely </li>
+<li> Remove all the seeds and stalk from the pepper, and chop coarsely </li>
+<li>Add all the ingredients into a food processor </li>
+<li> Process all the ingredients into a paste If you want a coarse "chunky" hummus, process it for a short time </li>
+<li>If you want a smooth hummus, process it for a longer time </li>
+<li> For a different flavor, you could try blending in a small measure of lemon and coriander, chili pepper, lime and chipotle, 
+harissa and mint, or spinach and feta cheese. Experiment and see what works for you.</li>
+<li>Storage Refrigerate the finished hummus in a sealed container. </li>
+</ol>
+<dl>
+<dt> Hummus </dt>
+<dd>
+is the dark organic matter in soil that is formed by the decomposition of plant and animal matter. 
+It is a kind of soil organic matter. It is rich in nutrients andd retains moisture in the soil.
+Hummus is the latin word for "earth"<img src="data:image/jpeg;base64,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" alt="Earth and Ground" width="100" height ="100" /src> or "ground".
+Hummus is sutable for freezing; you should thaw it and use it within a couple of months.
+</dd>
+</dl>
+<picture>
+                        <source media="(min-width:580px): srcset="C:\Users\202215203\Downloads\HTML\the1975.jpg">
+                        <source media="(min-width:180px): srcset="C:\Users\202215203\Downloads\HTML\THE1975 (2).jpg">
+<img src="C:\Users\202215203\Downloads\HTML\the1975.jpg" alt="THE1975"  width="800" height="800" />
+                    </picture>
+                </dd>
+            </dl>
+        </p>
+        <object type="image/svg+xml" data="C:\Users\202215203\Downloads\HTML\undraw_cat_epte.svg" width="900" height="800">  </object>
+
+            <img src="C:\Users\202215203\Downloads\HTML\Adamson_University_Official_Seal.png">
+            <br /><a href="#startA"> click here to go to the top of this page </a> <br /><
+            <time datetime="2023-03-03">03-March-2023</time>
+
+
+</html>
